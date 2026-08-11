@@ -17,3 +17,6 @@ storage/*
 # TypeScript may materialize these beside the Vite config in build mode.
 apps/web/vite.config.js
 apps/web/vite.config.d.ts
+
+# NixOS specific
+flake.lock
